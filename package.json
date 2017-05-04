@@ -1,0 +1,16 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Advanced chat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaury Baranwal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "http": "0.0.0",
+    "socket.io": "^1.7.3"
+  }
+}
